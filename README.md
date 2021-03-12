@@ -9,7 +9,7 @@
 1. Crie um programa de linha de comando que solicite o `nome` e a `data de nascimento` do usuário.
    Após a inserção dos dados, imprima-os no console. Ex.: `Vinicius 31 anos`
 
-2. No mesmo programa adicione uma condição, se a idade do usuário for menor de `18` anos, o programa deve imprimir a mensagem "Você precisa ter mais de 18 anos." caso contrário finalize o programa.
+2. No mesmo programa adicione uma condição, se a idade do usuário for menor de `18` anos, o programa deve imprimir a mensagem `"Você precisa ter mais de 18 anos."` caso contrário finalize o programa.
 
 3. Continuando no mesmo programa, adicione validação para os campos `nome` e `data de nascimento`.
 
