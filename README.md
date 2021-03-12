@@ -16,7 +16,7 @@
 **Validações:**
 
 **Nome**<br>
-validação: não pode ser `vazio` e deve conter entre `3` e `15` caracteres
+validação: não pode ser `vazio` e deve conter entre `3` e `15` caracteres<br>
 mensagens de erro:
 
 - se o campo for vazio imprimir a mensagem `"O campo nome não pode ser vazio"`
@@ -24,7 +24,7 @@ mensagens de erro:
 - se o campo conter mais de `15` caracteres imprimir a mensagem `"O campo nome deve ter menos de 15 caracteres"`
 
 **Data de nascimento**<br>
-validação: não pode ser `vazio` e deve seguir o formato `DD/MM/AAAA`
+validação: não pode ser `vazio` e deve seguir o formato `DD/MM/AAAA`<br>
 mensagens de erro:
 
 - se o campo for vazio imprimir a mensagem `"O campo data de nascimento não pode ser vazio"`
